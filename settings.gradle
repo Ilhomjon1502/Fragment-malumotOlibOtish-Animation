@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Fragment malumot olib o'tish"
